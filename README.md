@@ -59,6 +59,3 @@ Contributions are welcome! Please follow these steps:
    git commit -m "Description of changes"
    ```
 4. Push your branch and open a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
